@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Tádova Díra",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fbf1c7", // gruvbox light bg
+          lightgray: "#ebdbb2", // bg1 — borders, outlines
+          gray: "#bdae93", // bg3 — graph links
+          darkgray: "#3c3836", // fg1 — body text
+          dark: "#282828", // fg0 — headings, icons
+          secondary: "#458588", // blue — links
+          tertiary: "#689d6a", // aqua — hover / visited
+          highlight: "rgba(215, 153, 33, 0.15)", // yellow tint
+          textHighlight: "#fabd2f88", // bright yellow marker
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#282828", // dark bg0
+          lightgray: "#3c3836", // bg1 — borders, code bg
+          gray: "#7c6f64", // bg4 — graph links
+          darkgray: "#ebdbb2", // fg1 — body text
+          dark: "#fbf1c7", // fg0 — headings, icons
+          secondary: "#83a598", // bright blue — links
+          tertiary: "#8ec07c", // bright aqua — hover
+          highlight: "rgba(60, 56, 54, 0.4)", // bg1 tint
+          textHighlight: "#fabd2f88", // bright yellow marker
         },
       },
     },
