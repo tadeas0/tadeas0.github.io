@@ -20,7 +20,7 @@ Nejdřív si musíme ujasnit, co budeme dělat. Proto tu mám připravený sezna
 
 ## Tady se proklikni na další části
 
-- **[[HW Workshop/Projekty/|Seznam všech projektů]]**
+- **[[Turbův Bastlířský Koutek/Projekty/|Seznam všech projektů]]**
 	- [[tags/obtiznost-zapojeni/lehka|Lehká obtížnost zapojení]]
 	- [[tags/obtiznost-zapojeni/stredni|Střední obtížnost zapojení]]
 	- [[tags/obtiznost-zapojeni/tezka|Těžká obtížnost zapojení]]
