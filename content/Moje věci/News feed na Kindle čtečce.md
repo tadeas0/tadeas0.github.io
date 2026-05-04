@@ -1,7 +1,6 @@
 ---
 date: 2026-05-01
 ---
-
 ![[kindle-news-feed.jpg]]
 
 Nedávno jsem objevil super věc. Jmenuje se [KindleEar](https://github.com/cdhigh/KindleEar) a každé ráno mi posílá výběr článků přímo do Kindle čtečky. Momentálně si nechávám posílat články z 5 různých zpravodajských serverů včetně například ČT24 a TechCrunch. Začnu kvůli tomu víc číst zprávy? Pravděpodobně ne, ale byl to fajn projekt. A když už se mi náhodou chtít bude, tak tu možnost mám. A dokonce i na e-ink displeji.
