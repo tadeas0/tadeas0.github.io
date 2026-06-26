@@ -4,7 +4,7 @@ obtížnost zapojení: střední
 tags: [cas, displej, zvuk, interakce, obtiznost-zapojeni/stredni]
 ---
 
-![Ilustrace projektu](../assets/project-images/pomodoro-timer.png)
+![[pomodoro-timer.png]]
 
 Odpočítává pracovní bloky a přestávky. Pípne a zobrazí notifikaci při změně fáze.
 
@@ -18,9 +18,7 @@ Odpočítává pracovní bloky a přestávky. Pípne a zobrazí notifikaci při 
 
 ## Zapojení
 
-![Schéma zapojení](../assets/schematics/pomodoro-timer.png)
-
-TBD
+![[pomodoro-timer-schematic.png]]
 
 ## Zdroje
 

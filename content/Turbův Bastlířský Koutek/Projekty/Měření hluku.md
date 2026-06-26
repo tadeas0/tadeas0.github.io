@@ -7,7 +7,7 @@ tags:
   - obtiznost-zapojeni/stredni
 ---
 
-![Ilustrace projektu](../assets/project-images/noise-level-meter.png)
+![[noise-level-meter.png]]
 
 Měří hlasitost okolí a zobrazuje úroveň hluku na displeji nebo LED pásku.
 

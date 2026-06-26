@@ -4,7 +4,7 @@ obtížnost zapojení: těžká
 tags: [hudba, zvuk, displej, interakce, obtiznost-zapojeni/tezka]
 ---
 
-![Ilustrace projektu](../assets/project-images/bluetooth-speaker.png)
+![[bluetooth-speaker.png]]
 
 Bluetooth reproduktor. Co k tomu víc říct? Zvuk pravděpodobně nebude stát za moc, ale bude mít displej a potenciometr na ovládání hlasitosti.
 

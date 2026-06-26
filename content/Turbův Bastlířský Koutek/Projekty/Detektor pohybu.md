@@ -4,7 +4,7 @@ obtížnost zapojení: střední
 tags: [mereni, displej, obtiznost-zapojeni/stredni]
 ---
 
-![Ilustrace projektu](../assets/project-images/motion-detector.png)
+![[motion-detector.png]]
 
 PIR senzor zachytí pohyb a zobrazí na displeji upozornění nebo spustí zvukový signál, když se něco v okolí pohne.
 

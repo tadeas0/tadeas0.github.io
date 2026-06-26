@@ -4,7 +4,7 @@ obtížnost zapojení: lehká
 tags: [wifi, obtiznost-zapojeni/lehka]
 ---
 
-![Ilustrace projektu](../assets/project-images/web-server.png)
+![[web-server.png]]
 
 Hostuje jednoduchou webovou stránku přístupnou přes lokální síť. Umožňuje nahrání a modifikaci obsahu.
 
@@ -15,9 +15,7 @@ Hostuje jednoduchou webovou stránku přístupnou přes lokální síť. Umožň
 
 ## Zapojení
 
-![Schéma zapojení](../assets/schematics/webserver.png)
-
-TBD
+![[webserver-schematic.png]]
 
 ## Zdroje
 

@@ -4,7 +4,7 @@ obtížnost zapojení: těžká
 tags: [interakce, obtiznost-zapojeni/tezka]
 ---
 
-![Ilustrace projektu](../assets/project-images/rfid-reader.png)
+![[rfid-reader.png]]
 
 RFID čtečka, která při přiložení povolené karty rozsvítí LEDku a zapípá. Nepovolená karta rozsvítí červenou LEDku a zapípá jinak. Přidržením tlačítka a přiložením karty umožní zaregistrovat nové karty do databáze.
 
@@ -19,9 +19,7 @@ RFID čtečka, která při přiložení povolené karty rozsvítí LEDku a zapí
 
 ## Zapojení
 
-![Schéma zapojení](../assets/schematics/rfid-reader.png)
-
-TBD
+![[rfid-reader-schematic.png]]
 
 ## Zdroje
 

@@ -7,7 +7,7 @@ tags:
   - obtiznost-zapojeni/stredni
 ---
 
-![Ilustrace projektu](../assets/project-images/battery-voltage-monitor.png)
+![[battery-voltage-monitor.png]]
 
 Měří napětí připojené baterie a zobrazuje zbývající kapacitu v procentech na displeji.
 

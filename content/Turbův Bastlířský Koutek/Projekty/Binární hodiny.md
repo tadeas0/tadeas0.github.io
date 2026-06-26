@@ -4,7 +4,7 @@ obtížnost zapojení: lehká
 tags: [cas, led-matice, obtiznost-zapojeni/lehka]
 ---
 
-![Ilustrace projektu](../assets/project-images/binary-clock.png)
+![[binary-clock.png]]
 
 Zobrazuje čas v binárním kódu na LED matici. Pokud se připojí na WiFi, čas se automaticky synchronizuje pomocí NTP.
 

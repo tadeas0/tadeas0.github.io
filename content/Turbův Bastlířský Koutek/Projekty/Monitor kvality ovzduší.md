@@ -4,7 +4,7 @@ obtížnost zapojení: lehká
 tags: [mereni, displej, obtiznost-zapojeni/lehka]
 ---
 
-![Ilustrace projektu](../assets/project-images/air-quality-monitor.png)
+![[air-quality-monitor.png]]
 
 Měří kvalitu vzduchu a zobrazuje hodnoty $CO_2$, VOC nebo AQI indexu na displeji.
 
@@ -16,13 +16,11 @@ Měří kvalitu vzduchu a zobrazuje hodnoty $CO_2$, VOC nebo AQI indexu na displ
 
 ## Zapojení
 
-![Schéma zapojení](../assets/schematics/air-quality.png)
-
-TBD
+![[air-quality-schematic.png]]
 
 ## Zapojení 2
 
-![Schéma zapojení](../assets/schematics/advanced-air-quality.png)
+![[advanced-air-quality-schematic.png]]
 
 ## Zdroje
 

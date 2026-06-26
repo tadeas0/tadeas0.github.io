@@ -4,7 +4,7 @@ obtížnost zapojení: střední
 tags: [hra, displej, obtiznost-zapojeni/stredni]
 ---
 
-![Ilustrace projektu](../assets/project-images/dice-roller.png)
+![[dice-roller.png]]
 
 Zatřes s ním a hoď si kostkou. Akcelerometr detekuje pohyb a simuluje na displeji hod kostkou.
 

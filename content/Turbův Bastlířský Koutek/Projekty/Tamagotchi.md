@@ -4,7 +4,7 @@ obtížnost zapojení: lehká
 tags: [hra, displej, interakce, obtiznost-zapojeni/lehka]
 ---
 
-![Ilustrace projektu](../assets/project-images/tamagotchi-pet.png)
+![[tamagotchi-pet.png]]
 
 Virtuální mazlíček na displeji, o kterého se musíš starat, krmit ho, hrát si a udržovat mu náladu.
 

@@ -4,7 +4,7 @@ obtížnost zapojení: střední
 tags: [cas, hudba, zvuk, interakce, obtiznost-zapojeni/stredni]
 ---
 
-![Ilustrace projektu](../assets/project-images/metronome.png)
+![[metronome.png]]
 
 Pípá v rytmu podle nastaveného BPM a drží rytmus.
 
