@@ -4,7 +4,7 @@ obtížnost zapojení: střední
 tags: [hudba, led-matice, obtiznost-zapojeni/stredni]
 ---
 
-![Ilustrace projektu](sound-visualizer.png)
+![Ilustrace projektu](../assets/project-images/sound-visualizer.png)
 
 Mikrofon snímá hlasitost a zobrazuje ekvalizér na LED matici. Reaguje na hudbu, tleskání nebo hlas.
 
@@ -15,6 +15,8 @@ Mikrofon snímá hlasitost a zobrazuje ekvalizér na LED matici. Reaguje na hudb
 - LED matice nebo LED pásek
 
 ## Zapojení
+
+![Schéma zapojení](../assets/schematics/sound-equalizer.png)
 
 TBD
 

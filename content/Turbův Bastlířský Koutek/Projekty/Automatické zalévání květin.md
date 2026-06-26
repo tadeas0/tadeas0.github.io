@@ -4,7 +4,7 @@ obtížnost zapojení: těžká
 tags: [automatizace, obtiznost-zapojeni/tezka]
 ---
 
-![Ilustrace projektu](plant-moisture-sensor.png)
+![Ilustrace projektu](../assets/project-images/plant-moisture-sensor.png)
 
 Senzor monitoruje půdní vlhkost. Když je půda suchá, automaticky spustí pumpu a zalije rostlinu.
 
@@ -19,6 +19,8 @@ Jednodušší varianta: senzor pouze rozsvítí LEDku, nepumpuje vodu.
 - hadička a nádržka na vodu
 
 ## Zapojení
+
+![Schéma zapojení](../assets/schematics/plant-watering.png)
 
 TBD
 

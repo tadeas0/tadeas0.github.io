@@ -4,7 +4,7 @@ obtížnost zapojení: lehká
 tags: [mereni, displej, obtiznost-zapojeni/lehka]
 ---
 
-![Ilustrace projektu](weather-station.png)
+![Ilustrace projektu](../assets/project-images/weather-station.png)
 
 Zobrazuje aktuální teplotu a vlhkost ze senzoru na displeji.
 
@@ -15,6 +15,8 @@ Zobrazuje aktuální teplotu a vlhkost ze senzoru na displeji.
 - OLED displej
 
 ## Zapojení
+
+![Schéma zapojení](../assets/schematics/meteostation.png)
 
 TBD
 

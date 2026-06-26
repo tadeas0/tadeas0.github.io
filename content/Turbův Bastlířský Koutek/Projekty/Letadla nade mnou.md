@@ -4,7 +4,7 @@ obtížnost zapojení: lehká
 tags: [wifi, displej, obtiznost-zapojeni/lehka]
 ---
 
-![Ilustrace projektu](planes-above-me.png)
+![Ilustrace projektu](../assets/project-images/planes-above-me.png)
 
 Zobrazuje informace o letadlech přelétajících nad tebou.
 
@@ -14,6 +14,8 @@ Zobrazuje informace o letadlech přelétajících nad tebou.
 - OLED nebo TFT displej
 
 ## Zapojení
+
+![Schéma zapojení](../assets/schematics/flight-display.png)
 
 TBD
 

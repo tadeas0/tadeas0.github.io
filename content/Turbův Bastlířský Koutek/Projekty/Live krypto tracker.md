@@ -4,7 +4,7 @@ obtížnost zapojení: lehká
 tags: [wifi, displej, obtiznost-zapojeni/lehka]
 ---
 
-![Ilustrace projektu](live-crypto-tracker.png)
+![Ilustrace projektu](../assets/project-images/live-crypto-tracker.png)
 
 Zobrazuje aktuální ceny kryptoměn průběžně aktualizované v reálném čase.
 

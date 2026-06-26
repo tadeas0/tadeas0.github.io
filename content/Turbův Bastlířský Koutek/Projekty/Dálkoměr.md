@@ -4,7 +4,7 @@ obtížnost zapojení: střední
 tags: [mereni, displej, obtiznost-zapojeni/stredni]
 ---
 
-![Ilustrace projektu](distance-meter.png)
+![Ilustrace projektu](../assets/project-images/distance-meter.png)
 
 Ultrazvukový sensor měří vzdálenost a zobrazuje výsledek v cm na displeji.
 

@@ -4,7 +4,7 @@ obtížnost zapojení: střední
 tags: [cas, led-matice, obtiznost-zapojeni/stredni]
 ---
 
-![Ilustrace projektu](hourglass.png)
+![Ilustrace projektu](../assets/project-images/hourglass.png)
 
 Simuluje přesýpací písky na LED matici. Akcelerometr detekuje náklon zařízení a pixely se sypou ve směru gravitace – nakloníš zařízení, písek přeteče na druhou stranu.
 

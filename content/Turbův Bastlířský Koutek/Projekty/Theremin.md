@@ -4,7 +4,7 @@ obtížnost zapojení: těžká
 tags: [hudba, zvuk, interakce, obtiznost-zapojeni/tezka]
 ---
 
-![Ilustrace projektu](theremin.png)
+![Ilustrace projektu](../assets/project-images/theremin.png)
 
 Bezdotykový hudební nástroj inspirovaný theréminem. Dva ultrazvukové senzory měří vzdálenost rukou. Jedna ruka ovládá výšku tónu, druhá hlasitost. Zvuk přehrává reproduktor.
 

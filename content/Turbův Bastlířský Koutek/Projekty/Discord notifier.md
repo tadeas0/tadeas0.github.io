@@ -4,7 +4,7 @@ obtížnost zapojení: střední
 tags: [wifi, interakce, obtiznost-zapojeni/stredni]
 ---
 
-![Ilustrace projektu](discord-notifier.png)
+![Ilustrace projektu](../assets/project-images/discord-notifier.png)
 
 Po stisknutí tlačítka odešle předdefinovanou zprávu do zvoleného Discord kanálu.
 

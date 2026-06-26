@@ -4,7 +4,7 @@ obtížnost zapojení: lehká
 tags: [wifi, displej, obtiznost-zapojeni/lehka]
 ---
 
-![Ilustrace projektu](departure-board.png)
+![Ilustrace projektu](../assets/project-images/departure-board.png)
 
 Zobrazuje na displeji odjezdy busů a tramvají ze zvolené zastávky.
 
@@ -14,6 +14,8 @@ Zobrazuje na displeji odjezdy busů a tramvají ze zvolené zastávky.
 - OLED nebo TFT displej
 
 ## Zapojení
+
+![Schéma zapojení](../assets/schematics/departure-board.png)
 
 TBD
 

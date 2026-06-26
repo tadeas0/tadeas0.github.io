@@ -4,7 +4,7 @@ obtížnost zapojení: střední
 tags: [hra, displej, interakce, obtiznost-zapojeni/stredni]
 ---
 
-![Ilustrace projektu](game-console.png)
+![Ilustrace projektu](../assets/project-images/game-console.png)
 
 Shitty herní konzole se třemi hrami (možná více, možná méně): Snake, Tetris a Pong. Podpora jednoho nebo dvou hráču. Nabízí revoluční displej s extra nízkým rozlišením a dva joysticky.
 
@@ -17,6 +17,8 @@ Shitty herní konzole se třemi hrami (možná více, možná méně): Snake, Te
 - reproduktor nebo piezo bzučák
 
 ## Zapojení
+
+![Schéma zapojení](../assets/schematics/game-console.png)
 
 TBD
 

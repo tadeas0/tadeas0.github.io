@@ -4,7 +4,7 @@ obtížnost zapojení: střední
 tags: [mereni, displej, obtiznost-zapojeni/stredni]
 ---
 
-![Ilustrace projektu](alcohol-tester.png)
+![Ilustrace projektu](../assets/project-images/alcohol-tester.png)
 
 Foukni na sensor. Změří ti alkohol a zobrazí ti hodnoty na displeji.
 
@@ -15,6 +15,8 @@ Foukni na sensor. Změří ti alkohol a zobrazí ti hodnoty na displeji.
 - OLED displej
 
 ## Zapojení
+
+![Schéma zapojení](../assets/schematics/alcohol-tester.png)
 
 TBD
 

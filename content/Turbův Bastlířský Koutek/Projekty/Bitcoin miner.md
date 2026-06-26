@@ -4,7 +4,7 @@ obtížnost zapojení: lehká
 tags: [hra, displej, obtiznost-zapojeni/lehka]
 ---
 
-![Ilustrace projektu](bitcoin-miner.png)
+![Ilustrace projektu](../assets/project-images/bitcoin-miner.png)
 
 Těží Bitcoin (nebo se o to aspoň snaží). V průměru vytěží 1 BTC zhruba za 75 až 120 miliard let.
 
